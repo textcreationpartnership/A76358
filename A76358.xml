@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession, obstinacy, and ignorance, of Father Bell, a Romish priest. Wherein is declared, the manner of his tryall, condemnation, and execution, on Munday Decemb. 11. 1643. Together with the names of those that suffered for stealing the ambassadours plate; and the names and facts of others who were executed at Tiburne the same day.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76358</idno>
+            <idno type="STC">Wing B1799A</idno>
+            <idno type="STC">Thomason E78_11</idno>
+            <idno type="STC">ESTC R20967</idno>
+            <idno type="EEBO-CITATION">99868535</idno>
+            <idno type="PROQUEST">99868535</idno>
+            <idno type="VID">120881</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120881)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E78[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession, obstinacy, and ignorance, of Father Bell, a Romish priest. Wherein is declared, the manner of his tryall, condemnation, and execution, on Munday Decemb. 11. 1643. Together with the names of those that suffered for stealing the ambassadours plate; and the names and facts of others who were executed at Tiburne the same day.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bates, and are to be sold at his shop in the Old-Baily.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes first page of Wing 4269 : The Kingdomes manifestation / John Pym.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bell, James, d. 1643.</term>
+               <term>Catholics --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:120881:1" rendition="simple:additions"/>
+                  <!-- PDF PAGE 80 -->
+                  <p>THE CONFESSION, Obſtinacy, and Ignorance, of Father BELL, <hi>a Romiſh Prieſt.</hi>
+                  </p>
+                  <p>Wherein is declared, the manner of his Tryall, Condemnation, and Execution, on Munday <hi>Decemb.</hi> 11. 1643.</p>
+                  <p>Together with the names of thoſe that ſuffered for ſteal<g ref="char:EOLhyphen"/>ling the Ambaſſadours plate; And the names and facts of others who were executed at Tiburne the ſame day.</p>
+                  <figure>
+                     <figDesc>depiction of the execution of Father Bell</figDesc>
+                  </figure>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>Thomas Bates,</hi> and are to be ſold at his ſhop in the Old-Baily. 1643.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:120881:2"/>
+                  <!-- PDF PAGE 81 -->
+                  <pb n="1" facs="tcp:120881:2"/>
+                  <!-- PDF PAGE 81 -->
+                  <head>The Confeſsion, Obſtinacie, and and Ignorance of Father BELL a Romiſh Prieſt.</head>
+                  <head type="sub">Executed at <hi>Tyburne</hi> 
+                     <date>Decemb. 11. 1643.</date>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He Prieſts and Jeſuits under the ſupremacy of the Pope and Church of <hi>Rome,</hi> as they have been the fomenters, contrivers, and nouriſhers of almoſt all the debates, con<g ref="char:EOLhyphen"/>ſpiracies, and maſſacres committed in di<g ref="char:EOLhyphen"/>vers forraigne Nations (which have affor<g ref="char:EOLhyphen"/>ded them entertainment) in all ages ſince their firſt ori<g ref="char:EOLhyphen"/>ginall and inſtitution; as is apparent by the parricide of <hi>Henry</hi> the third King of <hi>France,</hi> and other Princes (who profeſſed even the ſame Religion) inhumanely maſſacred by them, which would be too tedious particularly in this place to mention: So to come neerer both to our owne times and Nation (for we ſhall alſo omit their maine plots, and contrivances of the death of our late moſt illuſtrious and religious Queene <hi>Elizabeth</hi>) they were the prime In<g ref="char:EOLhyphen"/>ſtruments of raiſing the late unparallelled and bloody Re<g ref="char:EOLhyphen"/>bellion in <hi>Ireland,</hi> and the cauſes of the murthering of above an hundred thouſand innocent Proteſtants there, and finding that all their plots and machinations would prove unſucceſſefull to advance their owne Religion in
+<pb n="2" facs="tcp:120881:3"/>
+                     <!-- PDF PAGE 82 -->theſe three Kingdoms, unleſſe they kindled the like flames and combuſtions in <hi>England</hi> alſo, finding much favour from perſons in authority in this Kingdome, who ſuffered them to goe unpuniſhed (although contrary to the Lawes and Statutes of this Kingdome, they have ſo brought about their ſtratagems, as to cauſe a civill and unnaturall warre alſo in this Kingdome, notwithſtanding which deſignes of their ſo apparent to the whole world; it is beyond admi<g ref="char:EOLhyphen"/>ration to thinke that any of that viperous brood ſhould be ſo audacious and ſtill to continue in this Kingdom. And this may ſerve to ſatisfie the world what juſt cauſe there is to proceed againſt them in Juſtice for their Delinquency therein. But that which I intend more particularly to in<g ref="char:EOLhyphen"/>forme you of at this time, is, concerning the Triall, Con<g ref="char:EOLhyphen"/>demnation, and Execution of one Father <hi>Bell,</hi> who being taken by thoſe who were inabled by the State for that pur<g ref="char:EOLhyphen"/>poſe, and laid in Newgate, and from thence was brought to the Seſſions Houſe the laſt weeke, where being indicted upon the Statute, and putting himſelfe upon God and his Countrey, the Witneſſes proving him to have beene a Prieſt beyond the Seas, and that they had knowne him (being an Engliſh man borne) ſay Maſſe in <hi>England,</hi> and to ſeduce divers of His Majeſties ſubjects: Upon which Indictment the Jury ſound him guilty, and the Court pro<g ref="char:EOLhyphen"/>ceeded to ſentence, which was to this effect: <hi>That he ſhould goe from thence to the place from whence he came</hi> (<hi>viz.</hi> New<g ref="char:EOLhyphen"/>gate) <hi>and from thence on a Hurdle to the place of Execu<g ref="char:EOLhyphen"/>tion, and there to be hanged by the necke, cut downe alive and quartered, and his Quarters to be ſet upon the ſeverall gates of the City.</hi> According to which ſentence he was drawne on a Hurdle on Munday <hi>Decemb.</hi> 11. to Tyburne the place of Execution, where being come, he ſpake as followeth:</p>
+                  <p>
+                     <pb n="3" facs="tcp:120881:3"/>
+                     <!-- PDF PAGE 82 -->
+                     <q>I Stand here to die, and declare unto you all the cauſe of my comming hither, nothing being brought or proved againſt me, but was onely condemned for being a Brieſt of the Catho<g ref="char:EOLhyphen"/>like Church; had I been a Heathen Prieſt, or a Prieſt after the Leviticall Order, then I ſhould not ſo much have wondred at it to h<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ve been put to death in a Chriſtian Land: but that a Catholique Prieſt ſhould be put to death by thoſe t<gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t, pretend to be Chriſti<g ref="char:EOLhyphen"/>ans, and to follow Chriſt <gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is Goſpell, this is that, ſenſible men will wonder at. But thoſe that have their judgements blin<g ref="char:EOLhyphen"/>ded, that ſee nothing, they may proceed to the like they have done before; and ſo they doe now to me. They pretend Lawes, but thoſe Lawes as they were ill made, ſo they hav<gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> be<gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ne worſe kept. Now I profeſſe before you all, and teſtifie here with m<gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> life, and blood, before God and Ieſus Chriſt his Sonne that is to judge, that I die a true number of the Catholique Church.</q> 
+                     <hi>Being in<g ref="char:EOLhyphen"/>terrupted by one, who ſaid, <gap reason="illegible: bleedthrough" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the Roman Chuch<g ref="char:punc">▪</g> 
+                        <gap reason="illegible: bleedthrough" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ies the.</hi> 
+                     <q>If you <gap reason="illegible: bleedthrough" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, with all my heart I diſtinguiſh it from any Proteſtant Church her<gap reason="illegible: bleedthrough" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tickes, or Conventicles, and I call it the Roman Church. My parents lived and died in that Religion, and I for my part have beene brought up in the ſame faith; and were I to live <gap reason="illegible: bleedthrough" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y longer here<g ref="char:punc">▪</g> I would profeſſe it to my dying day. though I were to die a thouſand deaths or to ſuffer never ſo great Torments. And this I teſtifie before God and Jeſus Chriſt.</q>
+                  </p>
+                  <p>The Sheriffe hearing him continue thus obſtinate, and ſpeaking againſt our Lawes and Religion, ſpake to him in this manner, <hi>viz.</hi> 
+                     <q>Mr. <hi>Bell,</hi> To goe on to traduce our Lawes, and ſeduce the people, we will not heare you any longer: mee thinkes you ſhould thinke upon death, and deſire God to open your eyes that you may ſee your blindneſſe. You were not onely condemned for being a Prieſt, but it was proved againſt you, and you confeſſed it, that you were an Engliſhman borne, and that you
+<pb n="4" facs="tcp:120881:4"/>
+                        <!-- PDF PAGE 83 -->went over to take Orders, and you returned backe hither againe; now the Letter of the Law is thus, That an Eng<g ref="char:EOLhyphen"/>liſh man borne, going over to take Orders, and returning backe againe, the Law interprets that he comes to ſeduce the Kings ſubjects:</q>
+                  </p>
+                  <p>There was not one word ſpoke of ſeducing.</p>
+                  <p>Mr. <hi>Bridges</hi> ſpake, <q>This is not a time to diſpute, Mr. <hi>Bell;</hi> pray apply your ſelfe to God, and humble your ſelfe be<g ref="char:EOLhyphen"/>fore him.</q>
+                  </p>
+                  <p>Mr. <hi>Bell</hi> ſpake, <q>Here are many people, but I ſuppoſe that they are as the Kingdome is ſeduced; and if a man labour to re<g ref="char:EOLhyphen"/>duce them, I thinke it is good ſervice. The people are deluded, becauſe they have a piece of the Catholique Religion; they be<g ref="char:EOLhyphen"/>lieve the Incarnation of Chriſt, and the Reſurrection and Paſſion of Chriſt; but what is this? therefore I declare the truth to the people, that I may further their ſoules.</q>
+                  </p>
+                  <p>Then the people in deteſtation of his ſpeeches, and of his waies, cryed out, <q>helpe your ſelfe.</q>
+                  </p>
+                  <p>Then he ſpake againe, <q>They that ſpeake falſe doctrine, doe not deſire to heare others; but I tell you, that the Proteſtant Re<g ref="char:EOLhyphen"/>ligion hath no divine faith.</q>
+                  </p>
+                  <p>Then the Sheriffe ſpake, <q>Doe not ſcandalize our Pro<g ref="char:EOLhyphen"/>teſtant faith.</q>
+                  </p>
+                  <p>
+                     <q>Well, I doe heartily forgive all men that had a hand in my death, and I deſire to be forgiven; for I moſt willingly die in the Catholique faith.</q>
+                  </p>
+                  <p>Mr. <hi>Bridges</hi> ſpake, <q>Mr. <hi>Bell</hi> pray apply your ſelfe to God.</q>
+                  </p>
+                  <p>
+                     <q>I have declared my mind already.</q>
+                  </p>
+                  <p>
+                     <q>The greater is your infatuation, God hath not beene pleaſed to open your eyes; and as your puniſhment here<g ref="char:EOLhyphen"/>after is ſecret, ſo your judgement here is juſt; you know what your owne Authour <hi>Cajetan</hi> ſpeakes, <hi>Interpaenas Dei mirabilis.</hi>
+                     </q>
+                  </p>
+                  <p>
+                     <pb n="5" facs="tcp:120881:4"/>
+                     <!-- PDF PAGE 83 -->
+Then he ſake againe, <q>If I cannot reduce, I doe not deſire to be ſeduced.</q>
+                  </p>
+                  <p>
+                     <q>I am ſorry for it: the Lord gives mercy to whom he will, and whom he will, he hardens.</q>
+                  </p>
+                  <p>Then the Miniſter of Newgate ſpake to him, and urged him to repent.</p>
+                  <p>He ſtill obſtinately anſwered, <q>Repent; what ſhould I repent for? I have a good cauſe.</q>
+                  </p>
+                  <p>Then the Sheriffe ſpake, <q>Mr. <hi>Bell,</hi> unleſſe you will ſpeak to the glory of God, and edification of your ſoule, ſpeake no more.</q> And ſo, as in blindneſſe he lived, obſtinately in blindneſſe he ended his daies.</p>
+                  <p>Alſo there was one Captaine <hi>Towers,</hi> that pretended a Warrant for the ſcarching of malignants houſes, and un<g ref="char:EOLhyphen"/>der that pretence plundered the Counteſſe of <hi>Notting<g ref="char:EOLhyphen"/>hams</hi> houſe, and many other houſes: and for this (and very juſtly) was condemned to die; and being brought to the place of execution, unexpectedly declared himſelfe to be a Roman Catholique; for being asked by the Mini<g ref="char:EOLhyphen"/>ſter of Newgate, whether he died a Roman Catholique? anſwered:</p>
+                  <p>
+                     <q>Yes, I die a Roman Catholique, doe what you will with me, I will ſtand to it.</q>
+                  </p>
+                  <p>
+                     <q>I,</q> but ſayes the Miniſter, <q>minde ſome thing elſe, you are now come to ſuffer death.</q>
+                  </p>
+                  <p>Then he peremptorily anſwered, <q>Well, he and I ſhall be in bliſſe ere long. I come to declare nothing to the world but the faith that I die in, namely the Catholike Faith: Pray God forgive them that accuſed me, and I deſire to be forgiven.</q>
+                  </p>
+                  <p>And ſo as Father <hi>Bell</hi> died, he died very obſtinately, li<g ref="char:EOLhyphen"/>ving and dying in blindneſſe and darkneſſe; what was in their minds, whither they ſhould goe, and where they are,
+<pb n="6" facs="tcp:120881:5"/>
+                     <!-- PDF PAGE 84 -->God knower; we are not to judge, but to leave this their Confeſſion, Obſtinacy, and Ignorance for all judicious Readers to ponder on it.</p>
+                  <p>Alſo <hi>Tillet</hi> and <hi>Freeman</hi> were hanged for robbing of the Lord Ambaſſadour of his plate, to the value of 6000. li.</p>
+                  <p>And one <hi>Butler</hi> for Burglary, breaking open a houſe in Chick-lane.</p>
+                  <p>Another for robbing of Grayes Inne.</p>
+                  <p>And <hi>Man<gap reason="illegible: bleedthrough" extent="3+ letters">
+                           <desc>•••…</desc>
+                        </gap> 
+                        <gap reason="illegible: bleedthrough" extent="3+ letters">
+                           <desc>•••…</desc>
+                        </gap>ch</hi> for murdering of her childe.</p>
+               </div>
+            </body>
+            <back>
+               <div type="license">
+                  <p>Printed according to Order.</p>
+                  <pb facs="tcp:120881:5"/>
+                  <!-- PDF PAGE 84 -->
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb facs="tcp:120881:6"/>
+                  <!-- PDF PAGE 85 -->
+                  <head>The true Pourtraiture of the Worthy, Religious, and truely Wiſe, JOHN PYM Eſquire, Burgeſſe for <hi>Taviſtocke,</hi> now deceaſed, <hi>Decemb.</hi> 8. 1643.</head>
+                  <p>
+                     <figure>
+                        <figDesc>portrait of John Pym</figDesc>
+                     </figure>
+                  </p>
+                  <q>
+                     <l>Behold this prop to Truth, pillor of pure Religion.</l>
+                     <l>Whoſe ayme, and paines, was to purge our Zion.</l>
+                     <l>In all our ſtraites he was to us a firme friend.</l>
+                     <l>For all our good his deareſt ſtrength did ſpend.</l>
+                  </q>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
